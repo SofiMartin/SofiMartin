@@ -60,12 +60,6 @@ Desarrolladora fullstack apasionada por crear soluciones tecnológicas que resue
 
 ---
 
-## 📊 GitHub Stats
-
-![Estadísticas de GitHub de Sofía](https://github-readme-stats.vercel.app/api?username=**SofiMartin**&show_icons=true&theme=radical)  
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=**SofiMartin**&layout=compact&theme=radical)
-
----
 
 ## 🌟 Proyectos Destacados
 
