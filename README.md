@@ -17,6 +17,7 @@ Desarrolladora fullstack apasionada por crear soluciones tecnológicas que resue
 ## 🛠️ Tecnologías y Herramientas
 
 ### 💻 Lenguajes de Programación
+
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,6 +25,7 @@ Desarrolladora fullstack apasionada por crear soluciones tecnológicas que resue
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🖥️ Backend
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -32,24 +34,26 @@ Desarrolladora fullstack apasionada por crear soluciones tecnológicas que resue
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-## 🎨 Frontend
+### 🎨 Frontend
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![MUI](https://camo.githubusercontent.com/cbc28d3c7a695ebaa6128e9f8f6e8411e3c854373701da21134f4410c888ae2a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d55492d2532333030383143422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6174657269616c2d7569266c6f676f436f6c6f723d7768697465)
+![MUI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![MUI Joy](https://img.shields.io/badge/MUI%20Joy-00B8D4?style=for-the-badge&logo=mui&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![AG Grid](https://img.shields.io/badge/AG_Grid-0B6ABF?style=for-the-badge&logoColor=white)
 
-
 ### 💾 Bases de Datos
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ⚙️ Herramientas y DevOps
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -57,8 +61,11 @@ Desarrolladora fullstack apasionada por crear soluciones tecnológicas que resue
 ---
 
 ## 📊 GitHub Stats
-![Estadísticas de GitHub de Sofía](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
+
+![Estadísticas de GitHub de Sofía](https://github-readme-stats.vercel.app/api?username=**tuusuario**&show_icons=true&theme=radical)  
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=**tuusuario**&layout=compact&theme=radical)
+
+> ✏️ *Reemplazá `**tuusuario**` con tu nombre de usuario de GitHub para que las estadísticas funcionen.*
 
 ---
 
@@ -66,14 +73,17 @@ Desarrolladora fullstack apasionada por crear soluciones tecnológicas que resue
 
 - 🤖 **Sistema de Gestión Empresarial**  
   App fullstack con login, permisos de usuario y panel administrativo con gráficos y métricas.
+
 - 🛒 **Plataforma E-commerce Escalable**  
   Carrito, pasarela de pagos, gestión de productos y notificaciones.
+
 - 📊 **Dashboard de Inteligencia de Negocios**  
   Visualización de KPIs y datos complejos con Chart.js y APIs backend personalizadas.
 
 ---
 
 ## 🤝 Conectemos
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariasofiamartin)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariasofiamartin@hotmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tuportfolio.com)
