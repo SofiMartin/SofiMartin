@@ -62,10 +62,8 @@ Desarrolladora fullstack apasionada por crear soluciones tecnológicas que resue
 
 ## 📊 GitHub Stats
 
-![Estadísticas de GitHub de Sofía](https://github-readme-stats.vercel.app/api?username=**tuusuario**&show_icons=true&theme=radical)  
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=**tuusuario**&layout=compact&theme=radical)
-
-> ✏️ *Reemplazá `**tuusuario**` con tu nombre de usuario de GitHub para que las estadísticas funcionen.*
+![Estadísticas de GitHub de Sofía](https://github-readme-stats.vercel.app/api?username=**SofiMartin**&show_icons=true&theme=radical)  
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=**SofiMartin**&layout=compact&theme=radical)
 
 ---
 
